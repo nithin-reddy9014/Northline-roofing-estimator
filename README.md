@@ -169,7 +169,7 @@ The application is deployed as separate frontend and backend services.
 ### Frontend
 
 ```text
-YOUR_FRONTEND_URL
+https://northline-roofing-estimator-five.vercel.app/
 ```
 
 ### Backend
