@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "https://northline-roofing-estimator-g8w9.onrender.com",
+  baseURL: "https://northline-roofing-estimator-g8w9.onrender.com/api",
 });
 
 api.interceptors.request.use((config) => {

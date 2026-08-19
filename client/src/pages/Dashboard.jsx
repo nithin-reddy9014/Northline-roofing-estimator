@@ -17,8 +17,8 @@ const Dashboard = () => {
         setError("");
 
         const [configResponse, leadsResponse] = await Promise.all([
-          api.get("/api/config"),
-          api.get("/api/leads"),
+          api.get("/config"),
+          api.get("/leads"),
         ]);
 
         setConfig(configResponse.data);
