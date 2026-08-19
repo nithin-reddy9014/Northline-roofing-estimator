@@ -171,11 +171,23 @@ The application is deployed as separate frontend and backend services.
 ```text
 https://northline-roofing-estimator-five.vercel.app/
 ```
+### Owner Dashboard
+
+```text
+https://northline-roofing-estimator-five.vercel.app/admin/login
+```
+
+## Owner Test Credentials
+
+```text
+Email: admin@northline.com
+Password: Northline@123
+```
 
 ### Backend
 
 ```text
-YOUR_BACKEND_URL
+https://northline-roofing-estimator-g8w9.onrender.com/
 ```
 
 The production URLs will be added after deployment.
